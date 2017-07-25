@@ -1,4 +1,4 @@
-###Status
+####Status
 [![Build Status](https://travis-ci.org/szabgab/modiin-co-learning.png)](https://travis-ci.org/szabgab/modiin-co-learning)
 
 
