@@ -12,4 +12,5 @@ for p in people:
     for field in ['name', 'github']:
         if field not in p:
             exit("'{}' is missing from {}".format(field, str(p)))
+            # comment
 
